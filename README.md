@@ -23,5 +23,5 @@ datasets/parent_themes.csv
 
 # Questions:
 
-## 1. What percentage of all licensed sets ever released were Star Wars themed?
-## 2. In which year was Star Wars not the most popular licensed theme  (in terms od number of sets released that year)?
+1. What percentage of all licensed sets ever released were Star Wars themed?
+2. In which year was Star Wars not the most popular licensed theme  (in terms od number of sets released that year)?
